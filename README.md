@@ -96,21 +96,19 @@ Create new product data.
 
 ### 🔹 Webhook Handling (Xendit)
 Handles payment status updates from Xendit.
-
-
+![Webhook](docs/webhook-xendit.png)
 
 ---
 
 ### 🔹 Get Produk (List Data)
 Retrieve all product data from database.
-
 ![Get Produk](docs/get-produk.png)
 
 ---
 
 ### 🔹 Create Produk
 Create new product data.
-
+![Create Produk](docs/create-produk.png)
 **Example Request**
 ```json
 {
