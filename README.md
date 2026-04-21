@@ -117,6 +117,8 @@ Create new product data.
   "harga": 14750
 }
 
+---
+
 ## 👩‍💻 Author
 
 Silvy Putri
